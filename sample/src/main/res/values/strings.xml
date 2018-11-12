@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShackMenu</string>
+
+    <string name="face_book">Facebook</string>
+    <string name="whatsapp">Whats app</string>
+    <string name="ding_ding">san</string>
+    <string name="photos">Photos</string>
+    <string name="we_chat">We chat</string>
+    <string name="see">See</string>
+
+    <string name="collect">Collect</string>
+    <string name="night">Night</string>
+    <string name="font">Font</string>
+    <string name="block">Block</string>
+    <string name="report">Report</string>
+
+    <string name="options">Options</string>
+    <string name="cancel">Cancel</string>
+</resources>
+
